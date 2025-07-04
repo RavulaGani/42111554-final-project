@@ -39,7 +39,7 @@
 - **MySQL Database** – Storage for products and user data
 
 ### ✅ Development Tools
-- **VS Code / Eclipse IDE**
+- **VS Code / Intellij Community Edition**
 - **Postman** – API testing
 - **Git & GitHub** – Version control
 
@@ -79,8 +79,7 @@
 <img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150642.png?raw=true" alt="Update Products" width="600"/>
 
 ### 📦 All Products in Store
-<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150518.png?raw=true" alt="All Products" width="600"/>
-
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150548.png?raw=true" alt="Delete Products" width="600"/>
 
 ---
 
