@@ -48,38 +48,38 @@
 ## 📸 Screenshots
 
 ### 🔐 Admin Login
-<img src="https://github.com/RavulaGani/42111554-final-project/Screenshots/Screenshot%202025-07-04%20150028.png" alt="Admin Login" width="600"/>
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150028.png?raw=true" alt="Admin Login" width="600"/>
 
 ### 🔐 User Login
-<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150017.png?raw=true" alt="Admin Login" width="600" height="400">
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150017.png?raw=true" alt="User Login" width="600"/>
 
 ### 📝 New User Registration
-![New User Registration](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150043.png)
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150043.png?raw=true" alt="New User Registration" width="600"/>
 
 ### 🏠 Grocery Home Page
-![Home Page](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150106.png)
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150106.png?raw=true" alt="Grocery Home Page" width="600"/>
 
 ### 🛒 Cart Page
-![Cart Page](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150310.png)
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150310.png?raw=true" alt="Cart Page" width="600"/>
 
 ### ✅ Order Placed Successfully
-![Order Success](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150321.png)
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150321.png?raw=true" alt="Order Success" width="600"/>
 
 ---
 
 ## 🧑‍💻 Admin Panel
 
 ### ➕ Add Products
-![Add Products](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150518.png)
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150518.png?raw=true" alt="Add Products" width="600"/>
 
 ### 🗑️ Delete Products
-![Delete Products](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150548.png)
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150548.png?raw=true" alt="Delete Products" width="600"/>
 
 ### 📝 Update Products
-![Update Products](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150642.png)
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150642.png?raw=true" alt="Update Products" width="600"/>
 
 ### 📦 All Products in Store
-![All Products](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150518.png)
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150518.png?raw=true" alt="All Products" width="600"/>
 
 
 ---
