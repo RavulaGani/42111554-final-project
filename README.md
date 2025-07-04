@@ -95,5 +95,5 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/rg_grocery_admin_panel.git
-   cd rg_grocery_admin_panel
+   git clone https://github.com/RavulaGani/42111554-final-project.git
+   cd 42111554-final-project
