@@ -50,7 +50,7 @@
 ### 🔐 Admin Login
 ## 🔐 Admin Login
 
-<img src="https://github.com/RavulaGani/42111554-final-project/raw/main/SpringBoot%20Final%20Project/Screenshots/Screenshot%202025-07-04%20150028.png" alt="Admin Login" width="600"/>
+<img src="https://github.com/RavulaGani/42111554-final-project/Screenshots/Screenshot%202025-07-04%20150028.png" alt="Admin Login" width="600"/>
 
 ### 🔐 User Login
 ![User Login](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150017.png)
