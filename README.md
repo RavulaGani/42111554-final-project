@@ -48,12 +48,10 @@
 ## 📸 Screenshots
 
 ### 🔐 Admin Login
-## 🔐 Admin Login
-
 <img src="https://github.com/RavulaGani/42111554-final-project/Screenshots/Screenshot%202025-07-04%20150028.png" alt="Admin Login" width="600"/>
 
 ### 🔐 User Login
-![User Login](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150017.png)
+<img src="https://github.com/RavulaGani/42111554-final-project/blob/main/Screenshots/Screenshot%202025-07-04%20150017.png?raw=true" alt="Admin Login" width="600" height="400">
 
 ### 📝 New User Registration
 ![New User Registration](./SpringBoot%20Final%20Project/Screenshots/Screenshot 2025-07-04 150043.png)
