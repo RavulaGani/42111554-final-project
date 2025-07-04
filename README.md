@@ -19,7 +19,6 @@
   - Add new fruit items with validation
   - Update existing products
   - Delete products
-  - Real-time feedback and alerts
 
 ---
 
